@@ -64,6 +64,16 @@ flutter:
   assets:
     - assets/day.png
     - assets/night.png
+    - assets/ethiopia.png
+    - assets/egypt.png
+    - assets/germany.png
+    - assets/greece.png
+    - assets/indonesia.png
+    - assets/kenya.png
+    - assets/south_korea.png
+    - assets/usa.png
+    - assets/uk.png
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
